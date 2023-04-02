@@ -9,8 +9,8 @@ Hi, my name is Papa Ogoe-Anderson but you can call me Anderson. 16 years old, in
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [My GitHub Portfolio](http://github.com/OgoeAnderson)
 * ✉️  You can contact me at [successtwins4@gmail.com](mailto:successtwins4@gmail.com)
-* 🚀  I'm currently working on [Building a clone version of Duck Duck Go](http://https://github.com/LGTRilex/Duck-Duck-Go-Recreated)
-* 🧠  I'm learning JavaScript's
+* 🚀  I'm currently working on [CHATGPT-LOOKALIKE NAMED SMARTGPT](http://https://github.com/LGTRilex/Chat-gpt-lookalike)
+* 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on Your Next Project
 * ⚡  I secretly like to listen to music while I code to keep me active
 
